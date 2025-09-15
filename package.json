@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kandiyas35.github.io/Vimotion-Academy",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
